@@ -56,8 +56,8 @@ The dataset (`Churn_Modelling.csv`) contains the following features:
 - **Test Accuracy:** ~86%
 - **Confusion Matrix:**
   ```
-  [[1515   80]
-   [ 199  206]]
+  [[1514   81]
+   [ 191  214]]
   ```
 
 ## 🚀 How to Run
