@@ -174,4 +174,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-Feel free to reach out or open an issue if you have any questions or suggestions.
+Khaled Alzeer.
